@@ -3,6 +3,6 @@ main:
   - title: "主页"
     url: /
   - title: "归档"
-    url: /archive/
+    url: /archive
   - title: "关于"
     url: /about/
